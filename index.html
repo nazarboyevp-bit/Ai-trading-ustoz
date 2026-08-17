@@ -90,7 +90,22 @@ setInterval(loadLiveNews, 15 * 60 * 1000);
 <section id="dashboard" class="screen active"><div class="hero card"><span>BUGUN</span><h2 id="todayTitle">1-kun: Trading asoslari</h2><p id="todayText">Trading nima ekanini va kapitalni himoya qilishni o‘rganamiz.</p><button onclick="lesson()">Darsni boshlash</button></div>
 <div class="stats"><div class="card"><strong id="prog">0%</strong><small>O‘quv progressi</small></div><div class="card"><strong id="disc">100</strong><small>Intizom</small></div><div class="card"><strong id="days">1</strong><small>Kundalik streak</small></div></div>
 <div class="card"><h3>📝 Bugungi vazifa</h3><p>“Nega tradingda avval kapitalni himoya qilish kerak?” mavzusida kamida 3 jumla yoz.</p><textarea id="taskAnswer" placeholder="Javobing..."></textarea><button onclick="submitTask()">Ustozga topshirish</button><div id="taskResult"></div></div>
-<div class="card"><h3>🎯 Bugungi maqsad</h3><ul><li>1 dars</li><li>10 ta test savoli</li><li>1 ta amaliy chart mashqi</li><li>Real trade ochmaslik</li></ul></div></section>
+<div class="card"><h3>🎯<!-- LIVE MARKET NEWS -->
+<section class="card" id="liveMarketNews">
+
+    <div class="section-title">
+        📰 Bugungi bozor
+    </div>
+
+    <div id="newsBox">
+
+        <div class="loading">
+            🕐 Real-time yangiliklar yuklanmoqda...
+        </div>
+
+    </div>
+
+</section>Bugungi maqsad</h3><ul><li>1 dars</li><li>10 ta test savoli</li><li>1 ta amaliy chart mashqi</li><li>Real trade ochmaslik</li></ul></div></section>
 
 <section id="mentor" class="screen"><div class="card"><h2>👨‍🏫 AI Ustoz</h2><p>Demo rejimida bilim bazasi ishlaydi. Haqiqiy AI API ulanishi uchun Sozlamalardan endpoint berish mumkin.</p><div id="chat"></div><div class="row"><input id="q" placeholder="Savolingni yoz..."><button onclick="ask()">Yuborish</button></div></div></section>
 

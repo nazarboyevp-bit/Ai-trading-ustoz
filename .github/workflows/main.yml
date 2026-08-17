@@ -1,0 +1,35 @@
+name: Daily Market News
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repositoryni yuklash
+        uses: actions/checkout@v4
+
+      - name: Pythonni sozlash
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: News va AI tahlil
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/update_news.py
+
+      - name: Yangiliklarni saqlash
+        run: |
+          git config user.name "AI Trading Ustoz Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add news.json
+          git diff --cached --quiet || git commit -m "Update live market news"
+          git push

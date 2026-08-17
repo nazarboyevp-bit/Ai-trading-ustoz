@@ -1,0 +1,10 @@
+{
+  "name": "AI Trading Ustoz",
+  "short_name": "Trading Ustoz",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07101f",
+  "theme_color": "#07101f",
+  "lang": "uz",
+  "description": "O‘zbekcha virtual trading ustoz"
+}

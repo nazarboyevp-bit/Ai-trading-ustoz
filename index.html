@@ -1,0 +1,25 @@
+<!doctype html><html lang="uz"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#07101f"><link rel="manifest" href="manifest.json"><link rel="stylesheet" href="style.css"><title>AI Trading Ustoz</title></head>
+<body><div class="app">
+<header><div><small>AI TRADING USTOZ</small><h1 id="greet">Salom, Trader 👋</h1><p>0 dan intizomli tradergacha.</p></div><b id="rank">Boshlang‘ich</b></header>
+<main>
+<section id="dashboard" class="screen active"><div class="hero card"><span>BUGUN</span><h2 id="todayTitle">1-kun: Trading asoslari</h2><p id="todayText">Trading nima ekanini va kapitalni himoya qilishni o‘rganamiz.</p><button onclick="lesson()">Darsni boshlash</button></div>
+<div class="stats"><div class="card"><strong id="prog">0%</strong><small>O‘quv progressi</small></div><div class="card"><strong id="disc">100</strong><small>Intizom</small></div><div class="card"><strong id="days">1</strong><small>Kundalik streak</small></div></div>
+<div class="card"><h3>📝 Bugungi vazifa</h3><p>“Nega tradingda avval kapitalni himoya qilish kerak?” mavzusida kamida 3 jumla yoz.</p><textarea id="taskAnswer" placeholder="Javobing..."></textarea><button onclick="submitTask()">Ustozga topshirish</button><div id="taskResult"></div></div>
+<div class="card"><h3>🎯 Bugungi maqsad</h3><ul><li>1 dars</li><li>10 ta test savoli</li><li>1 ta amaliy chart mashqi</li><li>Real trade ochmaslik</li></ul></div></section>
+
+<section id="mentor" class="screen"><div class="card"><h2>👨‍🏫 AI Ustoz</h2><p>Demo rejimida bilim bazasi ishlaydi. Haqiqiy AI API ulanishi uchun Sozlamalardan endpoint berish mumkin.</p><div id="chat"></div><div class="row"><input id="q" placeholder="Savolingni yoz..."><button onclick="ask()">Yuborish</button></div></div></section>
+
+<section id="academy" class="screen"><div class="card"><h2>📚 Akademiya</h2><div id="curriculum"></div></div></section>
+
+<section id="quiz" class="screen"><div class="card"><h2>🧪 Bugungi test</h2><div id="quizBox"></div><button onclick="gradeQuiz()">Natijani tekshirish</button><div id="quizResult"></div></div></section>
+
+<section id="chart" class="screen"><div class="card"><h2>📊 Chart mashqi</h2><p>TradingView yoki boshqa grafikdan screenshot yuklab, quyidagi checklistni to‘ldir.</p><input type="file" accept="image/*" id="chartFile"><label><input type="checkbox" class="chk"> Market structure belgiladim</label><label><input type="checkbox" class="chk"> Liquidity hududini topdim</label><label><input type="checkbox" class="chk"> Entry sababi bor</label><label><input type="checkbox" class="chk"> Invalidation/SL aniq</label><label><input type="checkbox" class="chk"> Risk oldindan belgilangan</label><button onclick="gradeChart()">Mashqni tekshirish</button><div id="chartResult"></div></div></section>
+
+<section id="journal" class="screen"><div class="card"><h2>📓 Trading jurnal</h2><input id="pair" placeholder="Instrument: XAUUSD"><input id="tf" placeholder="Timeframe: M5"><input id="setup" placeholder="Setup: Liquidity sweep + ..."><input id="risk" placeholder="Risk: 0.5%"><input id="result" placeholder="Natija: +1R / -1R"><textarea id="reason" placeholder="Nega trade ochding? Qoidalarga amal qildingmi?"></textarea><button onclick="saveTrade()">Saqlash</button></div><div id="trades"></div></section>
+
+<section id="progress" class="screen"><div class="card"><h2>📈 Progress</h2><div class="big" id="pBig">0%</div><p id="pText"></p><h3>Ko‘nikmalar</h3><div id="skills"></div></div></section>
+
+<section id="settings" class="screen"><div class="card"><h2>⚙️ Sozlamalar</h2><input id="name" placeholder="Isming"><input id="goal" placeholder="Maqsading"><select id="market"><option>XAUUSD</option><option>Forex</option><option>Crypto</option><option>Indices</option></select><h3>AI ulanish</h3><p class="muted">Agar o‘zingning AI backend endpointing bo‘lsa, shu yerga kiriting. API kalitni ilovaning ichiga joylamang.</p><input id="endpoint" placeholder="https://.../chat"><button onclick="saveSettings()">Saqlash</button><button class="danger" onclick="resetApp()">Ma’lumotlarni tozalash</button><p class="warning">⚠️ Ta’limiy dastur. Foyda yoki daromad kafolati emas.</p></div></section>
+</main>
+<nav><button onclick="show('dashboard',this)">🏠<small>Bosh</small></button><button onclick="show('mentor',this)">👨‍🏫<small>Ustoz</small></button><button onclick="show('academy',this)">📚<small>Kurs</small></button><button onclick="show('quiz',this)">🧪<small>Test</small></button><button onclick="show('chart',this)">📊<small>Chart</small></button><button onclick="show('journal',this)">📓<small>Jurnal</small></button><button onclick="show('progress',this)">📈<small>Progress</small></button><button onclick="show('settings',this)">⚙️<small>Sozlama</small></button></nav>
+</div><script src="app.js"></script></body></html>

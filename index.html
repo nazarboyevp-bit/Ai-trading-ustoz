@@ -1,5 +1,90 @@
 <!doctype html><html lang="uz"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#07101f"><link rel="manifest" href="manifest.json"><link rel="stylesheet" href="style.css"><title>AI Trading Ustoz</title></head>
-<body><div class="app">
+         <script>
+async function loadLiveNews() {
+    try {
+        const response = await fetch("news.json?ts=" + Date.now());
+
+        if (!response.ok) {
+            throw new Error("News yuklanmadi");
+        }
+
+        const data = await response.json();
+
+        console.log("AI Trading Ustoz Live News:", data);
+
+        // Agar sahifada newsBox mavjud bo‘lsa
+        const box = document.getElementById("newsBox");
+
+        if (!box) return;
+
+        let html = "";
+
+        if (data.analysis) {
+            html += `
+                <div class="ai-analysis">
+                    <h3>🧠 AI Market Analysis</h3>
+
+                    <p>
+                        <b>XAUUSD:</b>
+                        ${data.analysis.xauusd_bias || "Neutral"}
+                    </p>
+
+                    <p>
+                        <b>Risk:</b>
+                        ${data.analysis.risk || "Medium"}
+                    </p>
+
+                    <p>
+                        <b>DXY:</b>
+                        ${data.analysis.dxy || "N/A"}
+                    </p>
+
+                    <p>
+                        ${data.analysis.summary || ""}
+                    </p>
+                </div>
+            `;
+        }
+
+        if (data.items) {
+            data.items.forEach(news => {
+                html += `
+                    <div class="news-item">
+                        <b>${news.title}</b>
+
+                        <small>
+                            ${news.source || ""}
+                            ${news.published || ""}
+                        </small>
+
+                        <span>
+                            Ta'sir: ${news.impact || "Medium"}
+                        </span>
+                    </div>
+                `;
+            });
+        }
+
+        box.innerHTML = html;
+
+    } catch (error) {
+
+        console.error(error);
+
+        const box = document.getElementById("newsBox");
+
+        if (box) {
+            box.innerHTML =
+                "<p>⚠️ Yangiliklarni yuklashda xatolik.</p>";
+        }
+    }
+}
+
+loadLiveNews();
+
+// Har 15 daqiqada yangilaydi
+setInterval(loadLiveNews, 15 * 60 * 1000);
+</script> <body><div class="app">
 <header><div><small>AI TRADING USTOZ</small><h1 id="greet">Salom, Trader 👋</h1><p>0 dan intizomli tradergacha.</p></div><b id="rank">Boshlang‘ich</b></header>
 <main>
 <section id="dashboard" class="screen active"><div class="hero card"><span>BUGUN</span><h2 id="todayTitle">1-kun: Trading asoslari</h2><p id="todayText">Trading nima ekanini va kapitalni himoya qilishni o‘rganamiz.</p><button onclick="lesson()">Darsni boshlash</button></div>

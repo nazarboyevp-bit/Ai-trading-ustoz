@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T20:33:29.641352+00:00",
+  "updated_at": "2026-08-31T20:42:50.132478+00:00",
   "items": [
     {
       "title": "Here’s Why Gold Price Is Falling Again - Forbes",
@@ -23,14 +23,14 @@
       "impact": "Medium"
     },
     {
-      "title": "Pennsylvania’s A.I. Gold Rush Meets Second Thoughts - nytimes.com",
+      "title": "Pennsylvania’s A.I. Gold Rush Meets Second Thoughts - The New York Times",
       "source": "Google News Gold",
       "published": "Mon, 31 Aug 2026 16:56:41 GMT",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdnloLXhnUXM4RnIyZldrRkFXTkRVelpxS01VaXNwNEdtdVNyX0xyc0t5MmN3amExNzFGM3N4OTNNQTVBSHJrb1JDemJPN1VsOVoxRXFHMUxGRTFNeVdCQWhSajJkS3FWNlAxYl9MLTJXbUs3Mng4NDgtbERTMlg1aDQtc3g2US1PWDd5Vk13ZXBIRmlkSlpWakZJd29NZw?oc=5",
       "impact": "Medium"
     },
     {
-      "title": "Gold slips to near two-week low on Fed rate hike bets - CNBC",
+      "title": "Gold slips to near two-week low on Fed rate hike bets - cnbc.com",
       "source": "Google News Gold",
       "published": "Mon, 31 Aug 2026 02:32:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcGRDTjJlQVBDZkNfeW5WNWk4aWh2TllVWTJUUnlKTzBxNWxwcUxnZEUwNFVkOVBVUy11VTdrZy1henJZa0Y0ay1FRjA3TS1PWWRKOUFxdVQyWnVyZGR4MjdLbkpfX29Ddk9JNGVBZWFRTXFvclpYVUJkeVdQSkxmZkpRWnhwOEt5VFY4TEFWdnVRRVZmVE90Z9IBngFBVV95cUxOMjlpRXBWMGhPX2JndVEyWDdsTWZDSjhtMWtqMEE2NUVTMkhDZ3pSS2NwWjZHR2k2U0pCbWhxdlVTTjk5bng3X2pkNVpPbkttT2pIQVJWX3ZCTXBqM2dtd3JwcU1ZVEpIXzRFOTBJWnhuYWhQa3duSVlpZ0dhbTJITGkyWkF5VlFxb29NSnFnU2lya0hCZnh3MWxDRHB4QQ?oc=5",
@@ -72,17 +72,10 @@
       "impact": "Medium"
     },
     {
-      "title": "Challenges and Opportunities in Multifamily Affordable Housing Finance - newyorkfed.org",
+      "title": "Challenges and Opportunities in Multifamily Affordable Housing Finance - Federal Reserve Bank of New York",
       "source": "Google News Forex",
       "published": "Mon, 31 Aug 2026 17:33:32 GMT",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTlloSHB5ZTFNQXQxVkh3MEgxX1BVMGRiRUJnbWY2OUpHZkk4YTFHS1Vxa2FKS1g4S3c1TFZVUTFlWk00aS1NOHllcENvM0NwaTlyd016TDc5MFh6bXo2ME5Dd2QyTXNNckdlN2dlRXdoQkFtUzRPZUhhaEtQVDlIaGhqaw?oc=5",
-      "impact": "Low"
-    },
-    {
-      "title": "No rate-hiking map from the Federal Reserve - invesco.com",
-      "source": "Google News Forex",
-      "published": "Mon, 31 Aug 2026 16:19:47 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13?oc=5",
       "impact": "Low"
     },
     {
@@ -93,6 +86,13 @@
       "impact": "High"
     },
     {
+      "title": "No rate-hiking map from the Federal Reserve - invesco.com",
+      "source": "Google News Forex",
+      "published": "Mon, 31 Aug 2026 16:19:47 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13?oc=5",
+      "impact": "Low"
+    },
+    {
       "title": "Fed's Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming - NPR",
       "source": "Google News Forex",
       "published": "Fri, 28 Aug 2026 16:05:40 GMT",
@@ -100,21 +100,21 @@
       "impact": "High"
     },
     {
-      "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed 'at odds' with Treasury - CNBC",
+      "title": "Fed's Warsh says past global savings glut is turning into investment surge - Reuters",
+      "source": "Google News Forex",
+      "published": "Mon, 31 Aug 2026 19:01:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWi1zcHNfcVRRSzFXS0FDQi1DeVRraC1uYXdwRXBMVnNtbHBjeklnaktpYlR3YWxsSXZOTV9vZ19sUUZxM3JjS2tsWFJrNG9EekxpaGZQMzRuQ2t5TzUzcDBrLUdGaThiMnM4b2ZKVjF6RlU5aTFHWTRRN0NtUlpKd1NreXltRzdPQ3NyQXZELVVOcjhBckNyLUJYYklhallNcnBkQXdhTGsxMHlDVHp2TW42Yzd5M1Zzd2JwS21Qd0J3OXRR?oc=5",
+      "impact": "High"
+    },
+    {
+      "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed 'at odds' with Treasury - cnbc.com",
       "source": "Google News Forex",
       "published": "Mon, 31 Aug 2026 03:47:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOenZTV1NsMHJpeG9oSThNclEwSlR1SFpHZlNaN0xCMy1jRzNjcC1scTB4V1NpRDNzZnR2VDluZVoyWDRoRU5UYVZna1RvNFRKa0p4YVBCMS1lSGs4TDItQWp1T2pUcTY5NG9pNDJjYkJQMDhHT0I5LTF1UzZ4NXFOQ1Bkb0Y3YnhNclF6UzEyWTk5eHdBZ09UNXl6ZmUtRnp10gGmAUFVX3lxTFB3Nml5V1E2Q3RnT1lZbUpwN21uXzk0T0VoSjIzaVlMSkFCNmhGYXRISm5wYTh5dUlTTjZ5VWltNlhMTExMc1ExTGJ0QTh2c3JIVzhreDZOMGdSQy1MYzhiYnFMcENZRU4xOEhGSFRhQy1mVjZRVFA3X1Fia3FjNkRwbElDY1VfZ191dW80MUlSNi13MUZTQm1uRkgwQ19BaVMyRklaUGc?oc=5",
       "impact": "High"
     },
     {
-      "title": "Barclays sees two more Fed rate hikes this year after Warsh speech - Reuters",
-      "source": "Google News Forex",
-      "published": "Mon, 31 Aug 2026 04:30:10 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcjVHcjZWTGVra3FoZ29XVXdDS05fZlh6S3ZwZHdzb2Z1bHo1Tm12NUNBZWZxN21sTG5hYkdfVVA5VmlBMm5xOERKNXJYZDJURkI2Yk5Lb1JNZFFyNEJVZUdKSjhtdFZtbm5MdHJfN3cwN1FTUzRlUkJwUWxnWjlqLVVpdHZrQkRnaUx0Y1oyZlQ1VzY0LUhmRlI5d2RKbU9lQWVZUC0xTG81QjljYzRwdDRQRndsY3FXZWdR?oc=5",
-      "impact": "High"
-    },
-    {
-      "title": "Attorney General Phil Weiser defends Federal Reserve’s independence in Supreme Court case - coag.gov",
+      "title": "Attorney General Phil Weiser defends Federal Reserve’s independence in Supreme Court case - Colorado Attorney General (.gov)",
       "source": "Google News Forex",
       "published": "Sun, 30 Aug 2026 04:08:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2UyUXRSRk5zb183d1VocGQyT1p4TGNkZDg1WTBHMXp1eklLRF9DelBWYzM1VXdfWkNjN2x5WVYtNnd5VGhoc3FxNG42aUZmMDRuTC1xOUZHN080M1p1VW9xclgxbVRsTTJmOGkzYk5vYldadk9BZFNyWlFBb0NVTFpabUZKYm5aNW45bXlGaTliTHM?oc=5",

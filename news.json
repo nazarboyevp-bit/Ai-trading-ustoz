@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T19:09:28.231780+00:00",
+  "updated_at": "2026-08-31T19:19:36.277869+00:00",
   "items": [
     {
       "title": "Here’s Why Gold Price Is Falling Again - Forbes",
@@ -30,13 +30,6 @@
       "impact": "High"
     },
     {
-      "title": "Pennsylvania’s A.I. Gold Rush Meets Second Thoughts - The New York Times",
-      "source": "Google News Gold",
-      "published": "Mon, 31 Aug 2026 16:56:41 GMT",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdnloLXhnUXM4RnIyZldrRkFXTkRVelpxS01VaXNwNEdtdVNyX0xyc0t5MmN3amExNzFGM3N4OTNNQTVBSHJrb1JDemJPN1VsOVoxRXFHMUxGRTFNeVdCQWhSajJkS3FWNlAxYl9MLTJXbUs3Mng4NDgtbERTMlg1aDQtc3g2US1PWDd5Vk13ZXBIRmlkSlpWakZJd29NZw?oc=5",
-      "impact": "Medium"
-    },
-    {
       "title": "Gold slips as Fed outlook weighs, but August set for strongest gain since January - Investing.com",
       "source": "Google News Gold",
       "published": "Mon, 31 Aug 2026 10:33:28 GMT",
@@ -51,7 +44,7 @@
       "impact": "Medium"
     },
     {
-      "title": "Gold Steadies After Tumbling as Warsh Spurs Fed Rate-Hike Bets - Bloomberg.com",
+      "title": "Gold Steadies After Tumbling as Warsh Spurs Fed Rate-Hike Bets - bloomberg.com",
       "source": "Google News Gold",
       "published": "Mon, 31 Aug 2026 17:17:26 GMT",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTHZydFI2TDU2UTFfTVB3dk0tZUUxSDkwVXA1Y0g1OHJQM09hVHF1N01TbW1FUHdTcDI2T3JvWmJKdkotMWRUTGNxQmtMWlhWNkdiaTNTVjRlU3k2LTlJUHZibFpwa2lwZ2JvMzN1M1pUcndWTVkzZjBnck1uUTZTUFd4d0V5Rm1pbElQTy04VWVzMDJweEdERFdLTkN4b1d2YjRaQnoyOXBHbThsa0tCNFJiVQ?oc=5",
@@ -72,7 +65,14 @@
       "impact": "Medium"
     },
     {
-      "title": "Challenges and Opportunities in Multifamily Affordable Housing Finance - newyorkfed.org",
+      "title": "Pennsylvania’s A.I. Gold Rush Meets Second Thoughts - The New York Times",
+      "source": "Google News Gold",
+      "published": "Mon, 31 Aug 2026 09:00:17 GMT",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdnloLXhnUXM4RnIyZldrRkFXTkRVelpxS01VaXNwNEdtdVNyX0xyc0t5MmN3amExNzFGM3N4OTNNQTVBSHJrb1JDemJPN1VsOVoxRXFHMUxGRTFNeVdCQWhSajJkS3FWNlAxYl9MLTJXbUs3Mng4NDgtbERTMlg1aDQtc3g2US1PWDd5Vk13ZXBIRmlkSlpWakZJd29NZw?oc=5",
+      "impact": "Medium"
+    },
+    {
+      "title": "Challenges and Opportunities in Multifamily Affordable Housing Finance - Federal Reserve Bank of New York",
       "source": "Google News Forex",
       "published": "Mon, 31 Aug 2026 17:33:32 GMT",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTlloSHB5ZTFNQXQxVkh3MEgxX1BVMGRiRUJnbWY2OUpHZkk4YTFHS1Vxa2FKS1g4S3c1TFZVUTFlWk00aS1NOHllcENvM0NwaTlyd016TDc5MFh6bXo2ME5Dd2QyTXNNckdlN2dlRXdoQkFtUzRPZUhhaEtQVDlIaGhqaw?oc=5",
@@ -114,17 +114,17 @@
       "impact": "High"
     },
     {
-      "title": "Warsh Sounds Hawkish, but Will There Be a September Rate Hike in the US? - Morningstar",
-      "source": "Google News Forex",
-      "published": "Mon, 31 Aug 2026 10:10:53 GMT",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3UyMFBOaTd4REtkSERIa2lZV3FfSFJxanBOQkFORkh4ZWNJT3JfZmxvaTNFdUpVMkJPNkxic0VrSXJhZVlkQUtWZDRMQ1BVTGtLMTFFZUQ1cGdRemJjMW5lenk2TzRUMnQ2X0hUcXJXdElyYzdVWmItUVdnam5ISGJET1dUeHdnNTVMVEQtVV9Fb3F2RU9yLTNSZEoxbVFz?oc=5",
-      "impact": "Low"
-    },
-    {
       "title": "Attorney General Phil Weiser defends Federal Reserve’s independence in Supreme Court case - Colorado Attorney General (.gov)",
       "source": "Google News Forex",
       "published": "Sun, 30 Aug 2026 04:08:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2UyUXRSRk5zb183d1VocGQyT1p4TGNkZDg1WTBHMXp1eklLRF9DelBWYzM1VXdfWkNjN2x5WVYtNnd5VGhoc3FxNG42aUZmMDRuTC1xOUZHN080M1p1VW9xclgxbVRsTTJmOGkzYk5vYldadk9BZFNyWlFBb0NVTFpabUZKYm5aNW45bXlGaTliTHM?oc=5",
+      "impact": "Low"
+    },
+    {
+      "title": "Warsh Sounds Hawkish, but Will There Be a September Rate Hike in the US? - global.morningstar.com",
+      "source": "Google News Forex",
+      "published": "Mon, 31 Aug 2026 10:10:53 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3UyMFBOaTd4REtkSERIa2lZV3FfSFJxanBOQkFORkh4ZWNJT3JfZmxvaTNFdUpVMkJPNkxic0VrSXJhZVlkQUtWZDRMQ1BVTGtLMTFFZUQ1cGdRemJjMW5lenk2TzRUMnQ2X0hUcXJXdElyYzdVWmItUVdnam5ISGJET1dUeHdnNTVMVEQtVV9Fb3F2RU9yLTNSZEoxbVFz?oc=5",
       "impact": "Low"
     },
     {

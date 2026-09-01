@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T06:44:47.773155+00:00",
+  "updated_at": "2026-09-01T06:57:50.562391+00:00",
   "items": [
     {
       "title": "Gold slips to near two-week low on Fed rate hike bets - Reuters",
@@ -58,7 +58,7 @@
       "impact": "Medium"
     },
     {
-      "title": "Gold slips to near two-week low on Fed rate hike bets - CNBC",
+      "title": "Gold slips to near two-week low on Fed rate hike bets - cnbc.com",
       "source": "Google News Gold",
       "published": "Mon, 31 Aug 2026 02:32:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcGRDTjJlQVBDZkNfeW5WNWk4aWh2TllVWTJUUnlKTzBxNWxwcUxnZEUwNFVkOVBVUy11VTdrZy1henJZa0Y0ay1FRjA3TS1PWWRKOUFxdVQyWnVyZGR4MjdLbkpfX29Ddk9JNGVBZWFRTXFvclpYVUJkeVdQSkxmZkpRWnhwOEt5VFY4TEFWdnVRRVZmVE90Z9IBngFBVV95cUxOMjlpRXBWMGhPX2JndVEyWDdsTWZDSjhtMWtqMEE2NUVTMkhDZ3pSS2NwWjZHR2k2U0pCbWhxdlVTTjk5bng3X2pkNVpPbkttT2pIQVJWX3ZCTXBqM2dtd3JwcU1ZVEpIXzRFOTBJWnhuYWhQa3duSVlpZ0dhbTJITGkyWkF5VlFxb29NSnFnU2lya0hCZnh3MWxDRHB4QQ?oc=5",
@@ -86,18 +86,18 @@
       "impact": "High"
     },
     {
-      "title": "Fed's Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming - NPR",
-      "source": "Google News Forex",
-      "published": "Fri, 28 Aug 2026 16:05:40 GMT",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ29adFdRZFdqaTlNc3d2bGY0N29nNUtfd3ByZkIxc0dWRmJ0OHNuS0pJME42enEzd01od1ZhZ1lOQ3BDUGFEODhzcFpxanU4T0hLLWItenZMNHduOGhOTXNreFJjYWMtZ0VlMklzTmhpbjVBc1pHdFhXdVg5S1RObGM5MUlHbGRrMEE0eWp6cWliOUxQUzFwNHQ2WlEza3c?oc=5",
-      "impact": "High"
-    },
-    {
       "title": "No rate-hiking map from the Federal Reserve - invesco.com",
       "source": "Google News Forex",
       "published": "Mon, 31 Aug 2026 16:19:47 GMT",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13?oc=5",
       "impact": "Low"
+    },
+    {
+      "title": "Fed's Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming - NPR",
+      "source": "Google News Forex",
+      "published": "Fri, 28 Aug 2026 16:05:40 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ29adFdRZFdqaTlNc3d2bGY0N29nNUtfd3ByZkIxc0dWRmJ0OHNuS0pJME42enEzd01od1ZhZ1lOQ3BDUGFEODhzcFpxanU4T0hLLWItenZMNHduOGhOTXNreFJjYWMtZ0VlMklzTmhpbjVBc1pHdFhXdVg5S1RObGM5MUlHbGRrMEE0eWp6cWliOUxQUzFwNHQ2WlEza3c?oc=5",
+      "impact": "High"
     },
     {
       "title": "Why interest rate expectations are pointing north - marketplace.org",
@@ -107,13 +107,6 @@
       "impact": "High"
     },
     {
-      "title": "Jackson Hole Economic Policy Symposium: Financial Innovation — Implications for Payments and Policy - Federal Reserve Bank of Kansas City",
-      "source": "Google News Forex",
-      "published": "Fri, 28 Aug 2026 00:08:50 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLXdUdlpUMm9BekI0V2lrVFRaUDN0WFNNRkZXMkNrcHBVaDdtZWo1WUxLOTdxdzd5QTFKUF9RR0NGajgyYXR2UXhXbm9qX3pTejNSZU02OUdYY0Z6S2FBcG1wSHlnMEYySjk2TVRxaXlaZ1VkNndyVzZaVENRRmZkeURB?oc=5",
-      "impact": "Low"
-    },
-    {
       "title": "Preparing workers for an uncertain AI future - Federal Reserve Bank of Minneapolis",
       "source": "Google News Forex",
       "published": "Fri, 28 Aug 2026 08:17:49 GMT",
@@ -121,7 +114,21 @@
       "impact": "Low"
     },
     {
-      "title": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced - CNBC",
+      "title": "Jackson Hole Economic Policy Symposium: Financial Innovation — Implications for Payments and Policy - Federal Reserve Bank of Kansas City",
+      "source": "Google News Forex",
+      "published": "Fri, 28 Aug 2026 00:08:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLXdUdlpUMm9BekI0V2lrVFRaUDN0WFNNRkZXMkNrcHBVaDdtZWo1WUxLOTdxdzd5QTFKUF9RR0NGajgyYXR2UXhXbm9qX3pTejNSZU02OUdYY0Z6S2FBcG1wSHlnMEYySjk2TVRxaXlaZ1VkNndyVzZaVENRRmZkeURB?oc=5",
+      "impact": "Low"
+    },
+    {
+      "title": "Fed Chair Warsh Speaks at the Federal Reserve Bank of Kansas City - C-SPAN",
+      "source": "Google News Forex",
+      "published": "Fri, 28 Aug 2026 13:34:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUDRuNGtXTmRkTTA4am5PY1p1aFhDcVBDcGdJbmxoYzU2NlZGSzE5cURKdUZZa0JtdWxCRnpIYzJHLVZTenE3M0ZXSXZaZW1UcW5jeHV0bW1wcGlqSjBSQU9YV09CMEtyYmVnS3FkSzNfUHdFUkJQMDBhNmdSTnlXekNjUHJBR1ctWThPREpzeXZOOEdmM19leVdZNlZGVE80RGgycGtfcXRybG9qcGV2QzJuVnJNTzJRY05tejRWTQ?oc=5",
+      "impact": "High"
+    },
+    {
+      "title": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced - cnbc.com",
       "source": "Google News Forex",
       "published": "Mon, 31 Aug 2026 19:38:38 GMT",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1ZnbDVGTERQNngxeERKWW5PWUdJa2xhVGJFSkoxLUhqYzV2ZHpMVllqeC1jdGc2ZFh0Tlhka1V5ajRvaXFndk1INkhDTUNnTU9Ydk01RGhiNjRrTDZXdDNESzFSaXdQeFBCeG1ndXpvX01mczUwQVo3N0stbDBJcjNsZG1TWTg0Ql9zYUFhSF9MbzUzakRrcHBVZWlYd3l0eEFIV0ZRczRpaTVRbVV6QklKd3kyQdIBuwFBVV95cUxOMGl2dW1jTnM4bjlTY1JGcWk2RFI5alpkQzZsS1hwUy1hSFlqUDJzb0NEekx3VWxPVmVkQ1F6NVNraDdGX0ZWdExVb3VjbW80OFB5TFBZMkt6RjllRVQzMHhIR3pQYkc3QUFTR2QydHNuVXg4cjdUUkJXeUxzbzcwdnM4ZlFKU0ZwLWtfejVyeEJSeG9vM1A2QmZrMGROVjdiaXJqWXJlNFZYZkx2VU8yTVlXblkzSG5TRVJr?oc=5",
@@ -132,13 +139,6 @@
       "source": "Google News Forex",
       "published": "Mon, 31 Aug 2026 19:01:43 GMT",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWi1zcHNfcVRRSzFXS0FDQi1DeVRraC1uYXdwRXBMVnNtbHBjeklnaktpYlR3YWxsSXZOTV9vZ19sUUZxM3JjS2tsWFJrNG9EekxpaGZQMzRuQ2t5TzUzcDBrLUdGaThiMnM4b2ZKVjF6RlU5aTFHWTRRN0NtUlpKd1NreXltRzdPQ3NyQXZELVVOcjhBckNyLUJYYklhallNcnBkQXdhTGsxMHlDVHp2TW42Yzd5M1Zzd2JwS21Qd0J3OXRR?oc=5",
-      "impact": "High"
-    },
-    {
-      "title": "Fed Chair Warsh Speaks at the Federal Reserve Bank of Kansas City - C-SPAN",
-      "source": "Google News Forex",
-      "published": "Fri, 28 Aug 2026 13:34:51 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUDRuNGtXTmRkTTA4am5PY1p1aFhDcVBDcGdJbmxoYzU2NlZGSzE5cURKdUZZa0JtdWxCRnpIYzJHLVZTenE3M0ZXSXZaZW1UcW5jeHV0bW1wcGlqSjBSQU9YV09CMEtyYmVnS3FkSzNfUHdFUkJQMDBhNmdSTnlXekNjUHJBR1ctWThPREpzeXZOOEdmM19leVdZNlZGVE80RGgycGtfcXRybG9qcGV2QzJuVnJNTzJRY05tejRWTQ?oc=5",
       "impact": "High"
     }
   ],

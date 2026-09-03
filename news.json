@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T20:01:58.058699+00:00",
+  "updated_at": "2026-09-03T20:18:01.451583+00:00",
   "items": [
     {
       "title": "XAU/USD: Gold Slides Below 200-Day Average as Yields Defeat Safe-Haven Demand - TradingView",
@@ -72,13 +72,6 @@
       "impact": "High"
     },
     {
-      "title": "Fed's Waller channels his inner John Lennon with a plea to 'give disinflation a chance' - Reuters",
-      "source": "Google News Forex",
-      "published": "Thu, 03 Sep 2026 18:11:10 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVJjV3EyRTlHeFIwYWxSa0EtRkM1YzFQOExsR0cwaFRrVEo0MUlXWTMtdHhpam5seDNOQWJYQ0NYVGJkVDJNMkR4NHFsX2RJTkxPM1dDd1Z4T2s3R1ZZaFdoQV9CXzE1WUw3YXNZdnpFZFJBZnVGWnkxbVpUeVdoRk11eTdHWHBLVjIwREZldUNmYzQ4TFd0WWlKWXhNYm50MW5hYkpnUE5PaHdaUHhVUUlQWnN4UTE1U21jamtTVQ?oc=5",
-      "impact": "High"
-    },
-    {
       "title": "Federal Banking Agencies and FinCEN Clarify SAR Confidentiality Rules for Customer Communications - Consumer Financial Services Law Monitor",
       "source": "Google News Forex",
       "published": "Thu, 03 Sep 2026 13:39:47 GMT",
@@ -100,14 +93,14 @@
       "impact": "Low"
     },
     {
-      "title": "Not so fast on rate hikes, some Fed officials say - Axios",
+      "title": "Not so fast on rate hikes, some Fed officials say - axios.com",
       "source": "Google News Forex",
       "published": "Thu, 03 Sep 2026 16:34:08 GMT",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xWHBtQmZjbGZySmcteGF0R3VqMVprbjlPbHZhQzdUUi0wRWZNaEhNNmxTWnRqT2ZDdjh5QkV3TGJvTk1PS2FEeW94bFROaTBZbVQzZGg4R3l4aHFWTW1pNWtfc3hWR2VDckxrNXVmZFRWcG0yYnc?oc=5",
       "impact": "High"
     },
     {
-      "title": "Rate Rise in Play as Fed Officials Await Inflation Data - The New York Times",
+      "title": "Rate Rise in Play as Fed Officials Await Inflation Data - nytimes.com",
       "source": "Google News Forex",
       "published": "Thu, 03 Sep 2026 18:19:18 GMT",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0xMWWJMdUtQMXdlQVVXcF85dWpCX1BSTDNPNG5yVXhYUVowc2xCamNwc245WW91b0NRa1c5OXRoRkxhb08xWFRlanpBd3dJZGNMSjZ2WlJKVGt4T21reE4tckRqbkNLNTV6SGcwdmdjTEVBOVJNYXQ1R0JVS0p5V0JYYUk1YnMwcnZ1SFdyUFRyNjQ?oc=5",
@@ -128,18 +121,25 @@
       "impact": "Low"
     },
     {
-      "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting - CNBC",
+      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
+      "source": "Google News Forex",
+      "published": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
+      "impact": "Low"
+    },
+    {
+      "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting - cnbc.com",
       "source": "Google News Forex",
       "published": "Thu, 03 Sep 2026 12:30:21 GMT",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2J1REZ3U04tQUUxbFk2SjB5b1lHLU5kXzhaZi1GUmdaa0c3SVJuTldqZ3ppWEc1STBsMzBKMlVLQ2oycUF5SVh0WXh4X1ZMbDRRaDZRYlB3TFVmNV9CUDkzbjFtT2Jka2UycVF6N0pfQzMwU21mdDNxUFA3RlRxTU1nUFJVUU1IQnFrS1FabER0N3ZBX2ZJRXNKbGU4U19CZUdBeEpuX1VsZUhWdVBFOXZUUE1Ubl9SejIwQnhjS0ppZ9IBxwFBVV95cUxPRHlvbVBOcHFJVm40TGtsUWFBbmZUWjBIXzdGMHAwU2VXSmlHS1FhVnJlYmxFX1hHNEFsNUg4VmFFZUp1SzAydzllc3BBaEVrMFdzQ0hlV2oxVDJBd2dpNldpLWUybjJsX3hRdGdmdWtWUGEwOEI2MGFBYlBiRjZYSUEzeHhHcnpNQ002QjdYUGNueWZrcHJTU0RBNUlEYVRtTHV6WFZTN2hTeUl2MHJyOFJ5ejZqSkU4VEtrWG5xVjNhWWExZGZR?oc=5",
       "impact": "High"
     },
     {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
+      "title": "Fed's Waller says safety premium for Treasuries is gone, pushing neutral rate higher - reuters.com",
       "source": "Google News Forex",
-      "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "impact": "Low"
+      "published": "Thu, 03 Sep 2026 17:47:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUVFaVFFacUdlWTV3R2pKeGRYSjR5WDlmQ1d1aTlPVmVEVTZVamxTa0gwMVdvUnJWRkY5MjczVTUxaTEwZHdtTHBqdk1fa1FTRHFnaTFVRWlKRk1EVUJGZzhxV1gxS0ZmdV9oNWVhZXI1eGg3VE80czNCUVdBYnY4ay1UTGNYWlg2bHRocUpUbUNhT2pQQlljUzhPdjBxOXg5OTVVamdSNWN2Z3RxdmJZSUlSN3BxQ2R1YmVGR3pkNWk?oc=5",
+      "impact": "High"
     }
   ],
   "analysis": {

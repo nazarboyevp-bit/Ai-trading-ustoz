@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T20:06:08.987778+00:00",
+  "updated_at": "2026-09-07T20:22:05.158899+00:00",
   "items": [
     {
       "title": "Gold Update: XAU/USD Shows Neutrality Following Friday's NFP Report - FOREX.com",
@@ -65,14 +65,14 @@
       "impact": "Medium"
     },
     {
-      "title": "Gold eases as strong US jobs data boosts Fed rate-hike bets - reuters.com",
+      "title": "Gold eases as strong US jobs data boosts Fed rate-hike bets - Reuters",
       "source": "Google News Gold",
       "published": "Mon, 07 Sep 2026 02:36:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGNES0hoVGlPMVZfR041a2MwVUNQOUI5dzBweW04UlNvWjNJUnJYUEdGMkkyb1I1MWdRcUp5SDJybUV4YlRTWEZ5aFd4M3NaTnE5clF1Y200Tk9oNFoxd3lncVkzbjFNdTVKazRLNVpSSloteGRvakNZWmxwLW5uUWo5V0U2dDc2TFE0Nkg4VWVOU1dpdE5tNUhzOWtXcUNjTUZQMmF3T2ZOQkpWRURmX20wSFlvam9UV1Yw?oc=5",
       "impact": "High"
     },
     {
-      "title": "UBS forecasts two US Fed rate hikes in 2026 after strong jobs report - reuters.com",
+      "title": "UBS forecasts two US Fed rate hikes in 2026 after strong jobs report - Reuters",
       "source": "Google News Forex",
       "published": "Mon, 07 Sep 2026 09:07:43 GMT",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNXNXbFhiR0xaOTliU21YN051SmZxSndRR1d0WkFHUEFBbHRsSS1EdE1zMUJ6ZlQ2NFRwNFZFWVlSMGx5WUc5RFVhYmE0WnNpTWJfbXRraUVTemlyU0U3ZFMzSGxwZDdMWVloTERkSkdfa2NiX3N2cThqbkRIUzhSVGNaRl9wak9YZVV2YXg0UVVZRWtXaG9PYUllRnl6dnNoY0NIQlZwNkRwVEpDOHIw?oc=5",
@@ -100,18 +100,11 @@
       "impact": "High"
     },
     {
-      "title": "Stock Market Investors Just Got a Warning From the Federal Reserve. History Says This Will Happen Next. - Yahoo Finance",
+      "title": "Stock Market Investors Just Got a Warning From the Federal Reserve. History Says This Will Happen Next. - finance.yahoo.com",
       "source": "Google News Forex",
       "published": "Sun, 06 Sep 2026 09:04:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18?oc=5",
       "impact": "Low"
-    },
-    {
-      "title": "White House ups pressure on Kevin Warsh's Fed as Wall Street expects hike - Fortune",
-      "source": "Google News Forex",
-      "published": "Mon, 07 Sep 2026 11:17:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1ZYZkI5azJEanM2elFUMDFVbFdUVmcwd0ducFRZT2c5SlEwZnhBcVpkZlo5bl80ZS1xVUlmYjdLSlRIQXBCMVBwbW5lQzhPN2E3dllKRkZ1eVVVeGxKMDVFUEY5VUp2QVFWNWY1ODUyVFRvMGRVU25BZVptQjNGeW12bVZrV3RVMVFz?oc=5",
-      "impact": "High"
     },
     {
       "title": "Trump threatens trade war if rates aren’t cut after strong jobs report - The Hill",
@@ -121,21 +114,28 @@
       "impact": "High"
     },
     {
-      "title": "Dutch Central Bank Cuts Gold Reserves in U.S., Citing ‘Geopolitical Unrest’ - nytimes.com",
+      "title": "White House ups pressure on Kevin Warsh's Fed as Wall Street expects hike - Fortune",
+      "source": "Google News Forex",
+      "published": "Mon, 07 Sep 2026 11:17:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1ZYZkI5azJEanM2elFUMDFVbFdUVmcwd0ducFRZT2c5SlEwZnhBcVpkZlo5bl80ZS1xVUlmYjdLSlRIQXBCMVBwbW5lQzhPN2E3dllKRkZ1eVVVeGxKMDVFUEY5VUp2QVFWNWY1ODUyVFRvMGRVU25BZVptQjNGeW12bVZrV3RVMVFz?oc=5",
+      "impact": "High"
+    },
+    {
+      "title": "Dutch Central Bank Cuts Gold Reserves in U.S., Citing ‘Geopolitical Unrest’ - The New York Times",
       "source": "Google News Forex",
       "published": "Thu, 03 Sep 2026 20:07:38 GMT",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTFLc2JxTjd3U1pKVEdXSFVQc0dKYnVLbmRJVDBYVF80ZGtPYTNzc0dXZHRmeVV2S3dKdjU5NVN3a0xScVR4V25Edlp3b0puMUp2NS05UnNVMmRSV1dHSUlPSk8yT3AxZEsxNW1zalo3T3pXLUF3OUhHTTVwR1k0cG5PNFJuTWtx?oc=5",
       "impact": "Medium"
     },
     {
-      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - reuters.com",
+      "title": "Dollar deposits push India's forex reserves to fresh record for week ended August 28 - Reuters",
       "source": "Google News Forex",
       "published": "Fri, 04 Sep 2026 12:22:27 GMT",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3VBUFZ5YXQ5YV9zTnNwblR3V1JxbUlMVjM5Q3pNQi1TdmRhdFFtalYxVTNfMHk4N0ZEcWNTU0U4bzExYm1iRmQ1TG5IVkNlY3lBZV9ESDJwa1NmNUtydmtoRVZ0ajNoM2RqZW9vaEF2blpfbGRIWWFuWVZRclF6MkdjYUo3bmNXcXFURDY4VWdQNTlTZ1lJRmdac3hkSmVXRHJialdGVHdwQ0hSX3BQV002dUdyQ294X0tlVFQ4ZUR6QQ?oc=5",
       "impact": "Medium"
     },
     {
-      "title": "The Federal Reserve's Initial September Inflation Forecast Has Arrived, and It Contains a Glaring Red Flag for Wall Street - Yahoo Finance",
+      "title": "The Federal Reserve's Initial September Inflation Forecast Has Arrived, and It Contains a Glaring Red Flag for Wall Street - finance.yahoo.com",
       "source": "Google News Forex",
       "published": "Fri, 04 Sep 2026 08:26:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRTRIYXVYUGJPa2dDdVFpSVhubGxISmlnYko2TXlnN0VydFMyZ0dSa0ZMMkV2dnlBZmVBMUgwaGJkNUJPc3hISlFUTGNiTmJVZGszb1I5T3dRZVFVUzNCYm1xM3VDZTE0eVNqLTlJcnJTbXdjak5PQk1EaHlZaXJmTnlONmdRaTI0dDBMR1drMzBwMm0yeVplUXcwUnBwZ1hibGYxYVdJLXM5dXEtbGc?oc=5",

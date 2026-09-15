@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T03:50:44.735543+00:00",
+  "updated_at": "2026-09-15T04:00:55.891558+00:00",
   "items": [
     {
       "title": "Gold Holds Decline on Rate Hike Bets - TradingView",
@@ -114,17 +114,10 @@
       "impact": "Low"
     },
     {
-      "title": "Regional Economic Conditions: Tourism and Hospitality - minneapolisfed.org",
+      "title": "Regional Economic Conditions: Tourism and Hospitality - Federal Reserve Bank of Minneapolis",
       "source": "Google News Forex",
       "published": "Mon, 14 Sep 2026 19:19:15 GMT",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQME1BV3V2ZXhlVHBaWE9TeVdNYTdzeE9tRjFTczVQd1V4OUlDNG1sTTdkMmR2em1SOW5FYkwyZmk0TDV2WEtlb2pwU2lPRXQ4bTE2SGtZZGpBQnFIN0RsS1pwcVZTZGVla3RBUzZKUmMtNVpGbkFGODZHeWwwUVhjWk5UaHQwNWRqNlNUN21DUmdxdnpiaUFxSVFQdw?oc=5",
-      "impact": "Low"
-    },
-    {
-      "title": "Federal Reserve rate hike decision looms as Wall Street anticipates next move - Fox Business",
-      "source": "Google News Forex",
-      "published": "Mon, 14 Sep 2026 17:46:35 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jQWpmeHlIRGtVZlJSWlA2Z25ROUhvQ1FwQ1hyVTlGOWJZclJYcWNMTWwwSExuX1BlT2hXQVFoYkE4NFU1UlNiVXo3MnR0VUJCU2dldzcxU2dCNU0?oc=5",
       "impact": "Low"
     },
     {
@@ -133,6 +126,13 @@
       "published": "Mon, 14 Sep 2026 09:19:25 GMT",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTzBZZlkwZWhpeGhFSmpPNzc3eGVJdl90Zk1PTXVmV3VpM1lwcFpnZTY5ckV3NmhrekJGendHSEpTYzNkZlMyUXF1M21jTHNUNWhIV3c3U1hHcnF0X3ZNSkNZSnBiV200b3R5WVZVb3A2NkN5N19lUWpjUTVGNF9vVjczNmlQQ1BVVUpiSXNIYUV0R3R3SDVxZXdUbng?oc=5",
       "impact": "High"
+    },
+    {
+      "title": "Federal Reserve rate hike decision looms as Wall Street anticipates next move - Fox Business",
+      "source": "Google News Forex",
+      "published": "Mon, 14 Sep 2026 17:46:35 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jQWpmeHlIRGtVZlJSWlA2Z25ROUhvQ1FwQ1hyVTlGOWJZclJYcWNMTWwwSExuX1BlT2hXQVFoYkE4NFU1UlNiVXo3MnR0VUJCU2dldzcxU2dCNU0?oc=5",
+      "impact": "Low"
     },
     {
       "title": "Federal Reserve faces no easy choices with stubborn inflation and economic strains - WBFF",

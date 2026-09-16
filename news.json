@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T01:39:05.552555+00:00",
+  "updated_at": "2026-09-16T01:50:47.643090+00:00",
   "items": [
     {
       "title": "Gold Under Pressure as Fed Decision Looms - TradingView",
@@ -72,13 +72,6 @@
       "impact": "Medium"
     },
     {
-      "title": "WATCH LIVE: Warsh holds briefing after Fed meeting as interest rates expected to rise - pbs.org",
-      "source": "Google News Forex",
-      "published": "Tue, 15 Sep 2026 21:48:27 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbG5TakU0X3dMbFJEZU9LRkkweWpLSC1HQnR0ZGZjSnBBMnhxeDJfeXpJbl9ETDVKajhrMnZIZy1hRUdpZFllY2VTbmROclRnbUk5TU9xalVmbUxkVEd5THdtaW9ReHpua1M0Q3RLdFlTOWQ3UGxkUmF0QjZELWhNSjRENm1FbGl1RWN2VHd4Y291RGdpN0RtRDdjdFJmSjFGcU5TQVRlT0w5T3o1TzZZSHAwMTRrUHZCLU9acUZB0gHDAUFVX3lxTFBFVmt4Z21jOVJHWklFdzlfMS1HOXVvdXRJdV9sZmhENW9OWDVrdVF3UHpuYk03VFZfVVB1V3pjLUtJaUd5TUswTFhUZTNXTFYtZXdaOWIyeGszNmNwM2ZKeUhHcThwRUJSNHduR0V3cHVrTHljM25HazRWcXB0VlYtekVnZW5NQlE0ZU9YY2h1NkFmeGRsOWRBNXkxTGVVYlRUR3JKR1JwUjRfQ0xjZU9nTjBadjZqeThjeExQbG56X0Zwcw?oc=5",
-      "impact": "High"
-    },
-    {
       "title": "Trump and the Federal Reserve are on a collision course over interest rates - NBC News",
       "source": "Google News Forex",
       "published": "Wed, 16 Sep 2026 01:00:00 GMT",
@@ -86,14 +79,21 @@
       "impact": "Low"
     },
     {
-      "title": "Impact-First Investing: Matching Capital to Purpose - newyorkfed.org",
+      "title": "WATCH LIVE: Warsh holds briefing after Fed meeting as interest rates expected to rise - PBS",
+      "source": "Google News Forex",
+      "published": "Tue, 15 Sep 2026 21:48:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbG5TakU0X3dMbFJEZU9LRkkweWpLSC1HQnR0ZGZjSnBBMnhxeDJfeXpJbl9ETDVKajhrMnZIZy1hRUdpZFllY2VTbmROclRnbUk5TU9xalVmbUxkVEd5THdtaW9ReHpua1M0Q3RLdFlTOWQ3UGxkUmF0QjZELWhNSjRENm1FbGl1RWN2VHd4Y291RGdpN0RtRDdjdFJmSjFGcU5TQVRlT0w5T3o1TzZZSHAwMTRrUHZCLU9acUZB0gHDAUFVX3lxTFBFVmt4Z21jOVJHWklFdzlfMS1HOXVvdXRJdV9sZmhENW9OWDVrdVF3UHpuYk03VFZfVVB1V3pjLUtJaUd5TUswTFhUZTNXTFYtZXdaOWIyeGszNmNwM2ZKeUhHcThwRUJSNHduR0V3cHVrTHljM25HazRWcXB0VlYtekVnZW5NQlE0ZU9YY2h1NkFmeGRsOWRBNXkxTGVVYlRUR3JKR1JwUjRfQ0xjZU9nTjBadjZqeThjeExQbG56X0Zwcw?oc=5",
+      "impact": "High"
+    },
+    {
+      "title": "Impact-First Investing: Matching Capital to Purpose - Federal Reserve Bank of New York",
       "source": "Google News Forex",
       "published": "Tue, 15 Sep 2026 07:37:05 GMT",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHBvYzVQUlVSZW02ZEUwdHdURTRwRHdWdnVOZnBQVGRWbXZXRGo5QXQ4TlpqRHBHOHFvUFRkNUN0dkpJei02cXp0Wkt6YklPeDNrT3VGcGFiTER0R0plSzljY29UbHZxdEo0ZWZRVTJEYU9KNS04U1NyUlE1d3FITkpjUQ?oc=5",
       "impact": "Low"
     },
     {
-      "title": "Stubborn inflation sets stage for Federal Reserve to hike interest rates - Fox Business",
+      "title": "Stubborn inflation sets stage for Federal Reserve to hike interest rates - foxbusiness.com",
       "source": "Google News Forex",
       "published": "Tue, 15 Sep 2026 17:34:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaDAxZk9MMkhqUE55ZG9pQVNXY0RvYnFyQUV5ZDVzWHdfbVlnTUZrUWRVX0Q4WEl5ci15TGI2dV83TXVKR1hpbklYUzFYOHgxelM1M0VreTFmRGhqODItaWhRNzBoeG5XWEItSXhsZFYxdk9Sem1jYTJoY2NrSkF5R2NMTlFxVk1ZM3NweGxXdmR5c1pfNzBaNWxIX2xBTkZ4QnV30gGoAUFVX3lxTFBFQVB6NTVWSTBXckhkSWROSW1XTmdJWTFMM0lpc3ExNVo5YkJYOVB5TmlDS1I5QUJzU2VYQTRCaWU1NHpaakN5U253QWdHaUtPVUYxTzZnWmZBSUx3WUM3Y0V3OGNHN0pmaE9mdkZZN2cycGNjb05hamMtWDg2S2FUem1palk4b0RiSUVIVFNDMUM4SkVnWkxnZkZibmdfQS02aGNRUjRReA?oc=5",
@@ -114,18 +114,18 @@
       "impact": "Low"
     },
     {
+      "title": "Fed expected to hike interest rates for first time since 2023. See what it means for your money. - cbsnews.com",
+      "source": "Google News Forex",
+      "published": "Tue, 15 Sep 2026 18:15:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tTG1LNFp1QVVLaXp2RzhVVWdTOTQ2V2hKSUFnQkx2S29EcGVwbkNjWU94OWhmS0tuNV9paERaQk0yOXpaUGhxRUozVkdqX2MtV0UybDd1M0dqczNzdlJ5NjVrYnRzSnEzQUFOUGVuWXJZOEU?oc=5",
+      "impact": "High"
+    },
+    {
       "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money - MarketWatch",
       "source": "Google News Forex",
       "published": "Tue, 15 Sep 2026 20:47:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkg3bWE5ekJ1ay1xS3UzVTEtU3RnNWNvYlV3ZEcwZWRQcFg5bUdEX1pTU1NfQk5ObGw1SS0wRE9PbU8zdVVQY0Y4clZnTk9MSWstX1N5bjhnUW1SYWc3aHFGelJFaFNnSUY4RGctclRvSHlGQzRhN3ZVVGxuQzRpNGllaF9pbkN6R1hFaHBoQ1k4bUU1VTlWNmJ3dUtpU2J2bzNCUnpGM0VpaHNYNnFnMG9ubEVvNTFuem9NSw?oc=5",
       "impact": "Low"
-    },
-    {
-      "title": "Fed expected to hike interest rates for first time since 2023. See what it means for your money. - CBS News",
-      "source": "Google News Forex",
-      "published": "Tue, 15 Sep 2026 18:15:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tTG1LNFp1QVVLaXp2RzhVVWdTOTQ2V2hKSUFnQkx2S29EcGVwbkNjWU94OWhmS0tuNV9paERaQk0yOXpaUGhxRUozVkdqX2MtV0UybDd1M0dqczNzdlJ5NjVrYnRzSnEzQUFOUGVuWXJZOEU?oc=5",
-      "impact": "High"
     },
     {
       "title": "The Case for Federal Reserve Discretion - National Review",

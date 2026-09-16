@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T12:25:31.218901+00:00",
+  "updated_at": "2026-09-16T12:43:47.849459+00:00",
   "items": [
     {
       "title": "XAUUSD: Gold Rebounds to $4,340 as Traders Brace for First Rate Hike Since 2023 - TradingView",
@@ -51,13 +51,6 @@
       "impact": "High"
     },
     {
-      "title": "Gold Remains Under Pressure - TradingView",
-      "source": "Google News Gold",
-      "published": "Mon, 14 Sep 2026 00:26:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdWwwNVFQYW9WNkd4Qy1DeGpRcVlabkZxYUVpeHFQaE5PLWtTQ25WV1lBcnA5TUlvaW5HMklhbmk1dTNBU2RFaGROaFpwa0t0bTN6NTdFM1BaYkJqb05CcE44bzZ0OWhlMGMybnJVZjh1UHZocFpfX3ZWTWJLVldCMDRCaW4?oc=5",
-      "impact": "Medium"
-    },
-    {
       "title": "Gold (XAU/USD) & Silver Price Forecast: Fed Rate Path Takes Center Stage as Metals Recover - FXEmpire",
       "source": "Google News Gold",
       "published": "Wed, 16 Sep 2026 08:25:13 GMT",
@@ -72,11 +65,11 @@
       "impact": "Medium"
     },
     {
-      "title": "The Fed is expected to raise interest rates for the first time in 3 years - NPR",
-      "source": "Google News Forex",
-      "published": "Wed, 16 Sep 2026 09:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTl2UWxwMkg4QzNVNll6b0ZoSlhSNlVzOV9sd2Z6bWd0Vm5rS0U5Ni1XTmplTVlNamhVV1d3RDA2ckxWTVJIakVpNnlscEc3b29xRklzRGhwSmVlMmJ5d0dpcDE4eENtYXUtUEU2a3g5MlFNZXI0UkVHeHY3a2tWNU5Fd2dITUtWRnNwQ19Qdy1oS0p3Vkhleg?oc=5",
-      "impact": "High"
+      "title": "Gold Remains Under Pressure - TradingView",
+      "source": "Google News Gold",
+      "published": "Mon, 14 Sep 2026 00:26:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdWwwNVFQYW9WNkd4Qy1DeGpRcVlabkZxYUVpeHFQaE5PLWtTQ25WV1lBcnA5TUlvaW5HMklhbmk1dTNBU2RFaGROaFpwa0t0bTN6NTdFM1BaYkJqb05CcE44bzZ0OWhlMGMybnJVZjh1UHZocFpfX3ZWTWJLVldCMDRCaW4?oc=5",
+      "impact": "Medium"
     },
     {
       "title": "Trump and the Federal Reserve are on a collision course over interest rates - NBC News",
@@ -86,21 +79,28 @@
       "impact": "Low"
     },
     {
-      "title": "Federal Reserve is expected to raise its benchmark rate, defying Trump’s demands - AP News",
+      "title": "The Fed is expected to raise interest rates for the first time in 3 years - NPR",
       "source": "Google News Forex",
-      "published": "Tue, 15 Sep 2026 16:32:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEg4dFhUa0hYYzZsdXJhRTVFZ09rQUl5ems3Z0JuTE8zdlZJb3Z4bC1QUjZ3d0MzZG1KazlSenRUT20wSGFCMm9ya3AzQjJQeFBVZXB1enM4SDd5akRpNmgwT3RuOXRhSWZvVDYtZ3BOdkx1OWVkWmRCd292c1ItVDVVcmZKV1VPMWtjSU9IVF8tWEpUYm1pRnJacE1JbE5DbHJLbQ?oc=5",
-      "impact": "Low"
+      "published": "Wed, 16 Sep 2026 09:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTl2UWxwMkg4QzNVNll6b0ZoSlhSNlVzOV9sd2Z6bWd0Vm5rS0U5Ni1XTmplTVlNamhVV1d3RDA2ckxWTVJIakVpNnlscEc3b29xRklzRGhwSmVlMmJ5d0dpcDE4eENtYXUtUEU2a3g5MlFNZXI0UkVHeHY3a2tWNU5Fd2dITUtWRnNwQ19Qdy1oS0p3Vkhleg?oc=5",
+      "impact": "High"
     },
     {
       "title": "Federal Reserve expected to raise interest rates for the first time since 2023 - ABC News - Breaking News, Latest News and Videos",
       "source": "Google News Forex",
-      "published": "Wed, 16 Sep 2026 06:44:46 GMT",
+      "published": "Wed, 16 Sep 2026 09:07:47 GMT",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmVsckpGS3FpNUpiRlUxZkVtNXk5NE5YRnpBSTI4eEhVOWxaUlBzZDlxb3p1ZVBFeHFR0gGrAUFVX3lxTFBrZzU3UXhjRlBBblFYNzJZZ3dINVFwMnpIOFQwRlJ1NmRTa3JNUGlkamJyS08wRjM5UlFuMkRJcHAtUEQxYjF3b2Yyc2E2V1hOOEhQRHRPckpidllEOHpLRG9VUTFxSUwyaE95SzNNZ0pkemQwQkNBYkZPbTBpN0ZMYTBWU25nT3FrUVNNal9Eb0lCNnJwZTVFUVVhM0dDRlMzQ1pQTF8xRTV6bw?oc=5",
       "impact": "Low"
     },
     {
-      "title": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens - Yahoo Finance",
+      "title": "WATCH LIVE: Warsh holds briefing after Fed meeting as interest rates expected to rise - PBS",
+      "source": "Google News Forex",
+      "published": "Tue, 15 Sep 2026 21:48:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbG5TakU0X3dMbFJEZU9LRkkweWpLSC1HQnR0ZGZjSnBBMnhxeDJfeXpJbl9ETDVKajhrMnZIZy1hRUdpZFllY2VTbmROclRnbUk5TU9xalVmbUxkVEd5THdtaW9ReHpua1M0Q3RLdFlTOWQ3UGxkUmF0QjZELWhNSjRENm1FbGl1RWN2VHd4Y291RGdpN0RtRDdjdFJmSjFGcU5TQVRlT0w5T3o1TzZZSHAwMTRrUHZCLU9acUZB0gHDAUFVX3lxTFBFVmt4Z21jOVJHWklFdzlfMS1HOXVvdXRJdV9sZmhENW9OWDVrdVF3UHpuYk03VFZfVVB1V3pjLUtJaUd5TUswTFhUZTNXTFYtZXdaOWIyeGszNmNwM2ZKeUhHcThwRUJSNHduR0V3cHVrTHljM25HazRWcXB0VlYtekVnZW5NQlE0ZU9YY2h1NkFmeGRsOWRBNXkxTGVVYlRUR3JKR1JwUjRfQ0xjZU9nTjBadjZqeThjeExQbG56X0Zwcw?oc=5",
+      "impact": "High"
+    },
+    {
+      "title": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens - finance.yahoo.com",
       "source": "Google News Forex",
       "published": "Wed, 16 Sep 2026 10:04:49 GMT",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMjhjWnBNa3pQVm1Yb0taMlNmQjR5RFlUZ3RkR1ZiVHhSeHBuQnE0cnR3ZS1JMERRSGpneEJ0bEV0bDhTTUhiYXp2aXB3SDVSZElYOXJmdkpWSDlXcXFRRkZoT01HaDVUMjNqeWRXXzFyX05HM05CMjFlOWg1NGdENmhwWEdrMmktMWo1QzlZajJnNWRoTjlIUnU2SWJXY3ZoSVBRWmxDLXdfZ3ptSFpoY1FCSFpRRGpiQXczcFRnNXRldFZYSzBIZGR0eEpjQ29udFBMZUJiNG5LX3QwRldjeVZGOXhIUQ?oc=5",
@@ -128,17 +128,17 @@
       "impact": "Medium"
     },
     {
-      "title": "COMMENTARY: Morning Bid: A time to hike? - Reuters",
-      "source": "Google News Forex",
-      "published": "Wed, 16 Sep 2026 10:44:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLVRfa0dwdUVMclRKVkdtcWEwUDlkOFFpc3FQMmxoYjRQd3BobHl3bzNVZmY5WXp2MWhJcDBsenI4RDBfQ2d3SGdCX3A0ZThwekJ4dHZPSXNkMDJMVGpkWHVKRWs0VE4tLVBTQmNGa0xhM2x3Q1ZxX09GZnM1S3FUYnNSdzJlcGw0eVBqSmdoZDBOVUpXUGlz?oc=5",
-      "impact": "Low"
-    },
-    {
       "title": "The US Federal Reserve is expected to raise rates today - Semafor",
       "source": "Google News Forex",
       "published": "Wed, 16 Sep 2026 10:54:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmNldFNFd2NQMkZDWHNtdEJPajk3UDJNZWJMa1plbjI0R29PcFVjNFNJSWI4Z3ZZaEpTemVKNnN3cUxZR1BtSTdqZXVwbW9yc0dRLURZeUtfeFZUSHNSd2I5MWdEaGtHWV9vSmM2Q1lvZ2loaUNScnBtTlQ2V2ZCbC1lX2VFb0JHNkpZaDNFRkJESVl3N19DUklkQ21qYmM?oc=5",
+      "impact": "Low"
+    },
+    {
+      "title": "Federal Reserve expected to raise interest rates for 1st time in 3 years: What it means for you - WPTZ",
+      "source": "Google News Forex",
+      "published": "Wed, 16 Sep 2026 11:49:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGxkTmdBa2JQM0FfWnpVZ29VeWdVM3NRWHZsWm0xVzcxYmc0ZHljV0dIVVBXM1dYbEVScDZCOW9SMVRrMHZ3ekM2WGhVVTNIb0FPWkFnY2RQU0dzUXVUV1hPcl8zRDhGS1QxUHd2dDc5YThpcWxjTmprNS13MXBXVThKUldxQU0wbjk3elNFQnJpeEU?oc=5",
       "impact": "Low"
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T20:11:25.359048+00:00",
+  "updated_at": "2026-09-26T22:51:07.647766+00:00",
   "items": [
     {
       "title": "XAUUSD | Oil Rebound Pressures Gold on Fed-Hike Expectations for ICMARKETS:XAUUSD by DatTong - TradingView",
@@ -72,11 +72,11 @@
       "impact": "Medium"
     },
     {
-      "title": "US Federal Reserve proposes new stablecoin rules - Reuters",
+      "title": "Fed's Williams says it is reasonable to see another US rate hike this year - Reuters",
       "source": "Google News Forex",
-      "published": "Thu, 24 Sep 2026 20:31:52 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY25jeWJ2LVJIWmg5cThieHN1M3RDYjNGcGRyR19sNVN0cHBXRXlCUmEzbS1Zb3ZsNnhSM3VmcFQ4QkUzNG1VRXpkTTF2elFfNDhYa19ha0pJZlNpRHFhUXIwcE83ckdBM01Sc3FvRW1hZEY1MkR1RF9ZNFVDUTZkTmRhRXhJanlzRFF2OTdLaWZ4dWJjejJHR0FKRVoycGgzaklV?oc=5",
-      "impact": "Low"
+      "published": "Thu, 24 Sep 2026 14:17:57 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkdqZ3lLWVItQUduVDZkZW45dEhCcmIwUEM4QlZFSVoxN0QxVEl0NTk4MmtqYVktY3JjNGFGOGZSaVRNMDJFX1QzTXRjYnVkWm0yQUFlU1hWRTNsbXRlY0pIa3RGWEtkamtjdUhERE1qLVlsQTgyNjBGSzA0ZXFLS29pQXM3QTBOTHZuYXRZT2paWlBPWk90eFM3NzFBRnBTZFZaVGF3cFA0V3lCY1I5T09FQWVhdw?oc=5",
+      "impact": "High"
     },
     {
       "title": "Federal Reserve raises interest rates; SNAP benefit cuts; New homeowners association laws in Arizona - Arizona PBS",
@@ -86,13 +86,6 @@
       "impact": "Low"
     },
     {
-      "title": "Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections - The New York Times",
-      "source": "Google News Forex",
-      "published": "Fri, 25 Sep 2026 13:37:14 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGdRWGMwS19RQ1QwQVhydF9udFh2SkVwN2RYaXZMZGd6UzdGdXJOQ1JUMlFuLUw3VExKTm5XbldCLVBWVHpWSmNSWlQyN0tYUzVtRTg5Rlk3SnMxRklVWHVzbWJ4RFgtajBvVGM1cEhJcVZnTkhVNXNmWFVvZXZiRmt3?oc=5",
-      "impact": "High"
-    },
-    {
       "title": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth - PBS",
       "source": "Google News Forex",
       "published": "Sun, 20 Sep 2026 16:28:25 GMT",
@@ -100,10 +93,24 @@
       "impact": "Medium"
     },
     {
+      "title": "Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections - The New York Times",
+      "source": "Google News Forex",
+      "published": "Fri, 25 Sep 2026 13:37:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGdRWGMwS19RQ1QwQVhydF9udFh2SkVwN2RYaXZMZGd6UzdGdXJOQ1JUMlFuLUw3VExKTm5XbldCLVBWVHpWSmNSWlQyN0tYUzVtRTg5Rlk3SnMxRklVWHVzbWJ4RFgtajBvVGM1cEhJcVZnTkhVNXNmWFVvZXZiRmt3?oc=5",
+      "impact": "High"
+    },
+    {
       "title": "Dollar Jumps to 8-Week High on Fed Rate-Hike Bets - WSJ",
       "source": "Google News Forex",
       "published": "Wed, 23 Sep 2026 14:11:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONWd1TXlQMWFteE5laG9vTTFUNkFieFpXVlo2SG5TWS1mNUxZbW5kUkhGUkpBa0tkNW1hc1Q2ZEhXMVQ4TW84Q2ZYdld5OHZzV3dXbi1FYTc4WjZpVko1QVo4NU4zdEdJakpOM1UyeFI2RktZeDA3UklxSUhNaFQyVUs2UjhsSDRuMVNxaExiSmptWDdJcmdfb01MdFowS2tSM2RCWDZJcGszQzR1anJYcDB0MlVrY0tleEFsSnMyTmJaUTktSmJr?oc=5",
+      "impact": "High"
+    },
+    {
+      "title": "About the Fed - Federal Reserve Board (.gov)",
+      "source": "Google News Forex",
+      "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3X3g2ZkN1N2x6SGdZZFdUU2ZiN214VXRFS3h5ZmRZWExuejFRemx4R3FkZXhVWTdhWG0yVGpvbm9tRS0wZ05xV0VVMU92d0V2ZVlVUlE4TG5HZw?oc=5",
       "impact": "High"
     },
     {
@@ -114,7 +121,7 @@
       "impact": "Low"
     },
     {
-      "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed - cnbc.com",
+      "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed - CNBC",
       "source": "Google News Forex",
       "published": "Thu, 24 Sep 2026 18:30:35 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR21RNks3NUh3SlB3bUU2VEs1ZHlfSUJLcGI2ZlE2MVB3ZjF3ci1vMEhuRWE4NDlmcnF2QmNsUGx1SEV0UWNERnBza05EMVEwYzBnQzd4Y3FkRGhLYmRERmVZRy13UE9ONmU1b2s1UmV5azQyRHpCSERKZzNpR1dRc0pSbWpFa0x0SkJqdHFkNy1TaXg0M3NvaVZWdDZ0bFhpTnM1OGdEdTZPU3RWTy1VVl85NmtrNVNwbHl30gHAAUFVX3lxTFBoeDluN1VzWVExYWFOTXVRcWxOV3M2ZzV6TmpseEo4bnRIUjlVN3ZhN09wbWpfM2EwOGxRWFBwUlN4WnB4WDFTNmpFdHQ3ajRfWDVwR1YyRDNYejF5aXVFXzY1eFJnYXE1eGViOFdjUUdhaVdSdWtRblVSLU1nX1lZNTlLT2RQRXNNWjhHVURlSGZzTGFPVHZjM1JhZW9QNi1QVjYzdjFzM0tUNHlPb0g1LUdMNzdUYnFwREJYWElzTw?oc=5",
@@ -132,13 +139,6 @@
       "source": "Google News Forex",
       "published": "Mon, 21 Sep 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "impact": "Low"
-    },
-    {
-      "title": "Federal Reserve delivers warning to all Americans with a savings account: ‘There will be a reckoning.’ Are you ready? - Yahoo Finance",
-      "source": "Google News Forex",
-      "published": "Wed, 23 Sep 2026 10:35:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSzlCZVFEeVdoN25oSkh1OVZiZ3QyLUQ0NXBPZm1ZOWY3MFRGc0hqQ3lyRFdPLXpTN0VMWXpoVHpBVVhOY2NKUjBHb2luT0xWam9PTWhDLXpNQjhlTEZTUTJSVmtRLVFwMm5HRDdpZ1dUQlM2alBxbU93cjI5NTFYZEx5b0htblJxa2NMNHNiZjNjNUZycjc5SWtlLXVIR2VXSlhfVHF6TjFXeFU?oc=5",
       "impact": "Low"
     }
   ],
